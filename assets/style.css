@@ -1,0 +1,9 @@
+html {
+  font-size: 12px;
+}
+table td:last-of-type {
+  padding: 0
+}
+footer {
+  text-align: center;
+}
